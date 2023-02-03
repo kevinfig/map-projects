@@ -1,5 +1,5 @@
-# leaflet-map-simple
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+# My Map Project
+Kevin's Version
 
 ## Link to live map (replace with link to your site)
 https://handsondataviz.github.io/leaflet-map-simple/
